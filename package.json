@@ -7,5 +7,22 @@
     "start": "node app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/aqeelshamz/quran-db",
+  "keywords": [
+    "quran",
+    "hifz",
+    "islam",
+    "muslim"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqeelshamz/quran-db.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/aqeelshamz"
+  },
+  "bugs": {
+    "url": "https://github.com/aqeelshamz/quran-db/issues"
+  }
 }
