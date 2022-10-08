@@ -1,5 +1,5 @@
 {
-  "name": "quran-db",
+  "name": "@aqeelshamz/quran-db",
   "version": "1.0.4",
   "description": "Quran text (Arabic), audio URLs, and details of pages, juz, surah, ayah, place of revelation etc.",
   "main": "app.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aqeelshamz/quran-db.git"
+    "url": "https://github.com/aqeelshamz/quran-db.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/aqeelshamz"
