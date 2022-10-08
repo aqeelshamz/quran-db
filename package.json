@@ -1,6 +1,6 @@
 {
   "name": "quran-db",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quran text (Arabic), audio URLs, and details of pages, juz, surah, ayah, place of revelation etc.",
   "main": "app.js",
   "scripts": {
