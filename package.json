@@ -20,7 +20,7 @@
     "url": "https://github.com/aqeelshamz/quran-db.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/aqeelshamz"
+    "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
     "url": "https://github.com/aqeelshamz/quran-db/issues"

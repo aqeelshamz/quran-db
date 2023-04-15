@@ -1,0 +1,7 @@
+npm
+"name": "quran-db"
+"publishConfig" : {"registry": "https://registry.npmjs.org/"}
+
+github
+"name": "@aqeelshamz/quran-db"
+"publishConfig" : {"registry": "https://npm.pkg.github.com/aqeelshamz"}
