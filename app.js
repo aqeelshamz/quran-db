@@ -180,7 +180,7 @@ const getVerseEndSymbol = (verseNumber, arabicNumeral = true) => {
     9: "۹",
   };
 
-  for (const e in digits) {
+  for (const e of digits) {
     arabicNumeric += arabicNumbers[e];
   }
 
