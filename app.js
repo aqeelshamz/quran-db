@@ -273,9 +273,9 @@ const getVerseEndSymbol = (verseNumber, arabicNumeral = true) => {
 		9: "۹",
 	};
 
-	for (const e in digits) {
-		arabicNumeric += arabicNumbers[e];
-	}
+  for (const e of digits) {
+    arabicNumeric += arabicNumbers[e];
+  }
 
 	return `\u06dd${arabicNumeric}`;
 };
