@@ -62,9 +62,23 @@ Quran text, translation, audio URLs, and details of pages, juz, surah, ayah, pla
 
 **Translations:**
 
-- English (Saheeh International) - **`Translation.enSaheeh`**
-- Turkish - **`Translation.trSaheeh`**
-- Malayalam (Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor) - **`Translation.mlAbdulHameed`**
+-   English (Saheeh International) - **`Translation.enSaheeh`**
+-   English (Clear Quran) - **`Translation.enClearQuran`**
+-   French (Muhammad Hamidullah) - **`Translation.frHamidullah`**
+-   Turkish - **`Translation.trSaheeh`**
+-   Malayalam (Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor) - **`Translation.mlAbdulHameed`**
+-   Farsi - **`Translation.faHusseinDari`**
+-   Portuguese - **`Translation.portuguese`**
+-   Italian - **`Translation.itPiccardo`**
+-   Dutch - **`Translation.nlSiregar`**
+-   Russian - **`Translation.ruKuliev`**
+-   Bengali - **`Translation.bengali`**
+-   Chinese - **`Translation.chinese`**
+-   Swedish - **`Translation.swedish`**
+-   Spanish - **`Translation.spanish`**
+-   Urdu - **`Translation.urdu`**
+-   Indonesian - **`Translation.indonesian`**
+
 
 **SurahSeperators:**
 
