@@ -35422,3 +35422,5 @@ const faHusseinDari = [
     "content": "از جنیان (باشد) و (یا از) آدمیان»."
   }
 ];
+
+export default faHusseinDari;

@@ -35564,3 +35564,5 @@ const enClearQuran = [
     "content": "from among jinn and humankind.”"
   }
 ];
+
+export default enClearQuran;

@@ -31180,3 +31180,5 @@ const swedish = [
     "content": "[viskar] genom [onda] osynliga väsen och [deras likar bland] människorna"
   },
 ];
+
+export default swedish;

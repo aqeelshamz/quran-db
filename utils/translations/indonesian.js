@@ -31180,3 +31180,5 @@ const indonesian = [
     "content": "dari (golongan) jin dan manusia"
   },
 ];
+
+export default indonesian;

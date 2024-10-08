@@ -765,4 +765,4 @@ const pageData = [
   ],
 ];
 
-module.exports = pageData;
+export default pageData;

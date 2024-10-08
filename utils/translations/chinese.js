@@ -31180,3 +31180,5 @@ const chinese = [
     "content": "他是属于精灵和人类的。"
   },
 ];
+
+export default chinese;

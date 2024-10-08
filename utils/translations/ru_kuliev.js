@@ -34986,3 +34986,5 @@ const ruKuliev = [
     "content": "и бывает из джиннов и людей»"
   }
 ];
+
+export default ruKuliev;

@@ -320,4 +320,4 @@ const juz = [
   },
 ];
 
-module.exports = juz;
+export default juz;

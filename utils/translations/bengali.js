@@ -31180,3 +31180,5 @@ const bengali = [
     "content": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।"
   },
 ];
+
+export default bengali;

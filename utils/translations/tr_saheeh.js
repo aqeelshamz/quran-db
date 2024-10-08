@@ -36011,4 +36011,4 @@ const trSaheeh = [
   }
 ];
 
-module.exports = trSaheeh;
+export default trSaheeh;

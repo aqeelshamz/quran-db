@@ -1254,3 +1254,5 @@ const surah = [
     "russian": "Люди",
   }
 ];
+
+export default surah;

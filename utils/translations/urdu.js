@@ -31181,3 +31181,5 @@ const urduTranslation = [
     "content": "خواہ وہ جنوں میں سے ہو یا انسانوں میں سے",
   },
 ];
+
+export default urduTranslation;

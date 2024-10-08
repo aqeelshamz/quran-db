@@ -15,4 +15,4 @@ const sajdahVerses = {
   96: 19,
 };
 
-module.exports = sajdahVerses;
+export default sajdahVerses;

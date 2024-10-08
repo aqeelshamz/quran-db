@@ -1,24 +1,24 @@
-const surah = require("./utils/surah_data");
-const pageData = require("./utils/page_data");
-const juz = require("./utils/juz_data");
-const quranText = require("./utils/quran_text");
-const sajdahVerses = require("./utils/sajdah_verses");
-const enSaheeh = require("./utils/translations/en_saheeh");
-const enClearQuran = require("./utils/translations/en_clearQuran");
-const trSaheeh = require("./utils/translations/tr_saheeh");
-const mlAbdulHameed = require("./utils/translations/ml_abdulhameed");
-const faHusseinDari = require("./utils/translations/fa_husseinDari");
-const bengali = require("./utils/translations/bengali");
-const spanish = require("./utils/translations/spanish");
-const frHamidullah = require("./utils/translations/fr_hamidullah");
-const indonesian = require("./utils/translations/indonesian");
-const urdu = require("./utils/translations/urdu");
-const swedish = require("./utils/translations/swedish");
-const portuguese = require("./utils/translations/portuguese");
-const ruKuliev = require("./utils/translations/ru_kuliev");
-const nlSiregar = require("./utils/translations/nl_siregar");
-const itPiccardo = require("./utils/translations/it_piccardo");
-const chinese = require("./utils/translations/chinese");
+import surah from "./utils/surah_data.js";
+import pageData from "./utils/page_data.js";
+import juz from "./utils/juz_data.js";
+import quranText from "./utils/quran_text.js";
+import sajdahVerses from "./utils/sajdah_verses.js";
+import enSaheeh from "./utils/translations/en_saheeh.js";
+import enClearQuran from "./utils/translations/en_clearQuran.js";
+import trSaheeh from "./utils/translations/tr_saheeh.js";
+import mlAbdulHameed from "./utils/translations/ml_abdulhameed.js";
+import faHusseinDari from "./utils/translations/fa_husseinDari.js";
+import bengali from "./utils/translations/bengali.js";
+import spanish from "./utils/translations/spanish.js";
+import frHamidullah from "./utils/translations/fr_hamidullah.js";
+import indonesian from "./utils/translations/indonesian.js";
+import urdu from "./utils/translations/urdu.js";
+import swedish from "./utils/translations/swedish.js";
+import portuguese from "./utils/translations/portuguese.js";
+import ruKuliev from "./utils/translations/ru_kuliev.js";
+import nlSiregar from "./utils/translations/nl_siregar.js";
+import itPiccardo from "./utils/translations/it_piccardo.js";
+import chinese from "./utils/translations/chinese.js";
 
 const getPageData = (pageNumber) => {
 	if (pageNumber < 1 || pageNumber > 604) {
@@ -273,9 +273,9 @@ const getVerseEndSymbol = (verseNumber, arabicNumeral = true) => {
 		9: "۹",
 	};
 
-  for (const e of digits) {
-    arabicNumeric += arabicNumbers[e];
-  }
+	for (const e of digits) {
+		arabicNumeric += arabicNumbers[e];
+	}
 
 	return `\u06dd${arabicNumeric}`;
 };
@@ -584,7 +584,7 @@ const searchWords = (words) => {
 	return { occurences: result.length, result: result };
 };
 
-module.exports = {
+export default {
 	Translation,
 	SurahSeperator,
 	totalPagesCount,

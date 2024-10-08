@@ -35578,3 +35578,5 @@ const frHamidullah = [
     "content": "qu'il (le conseiller) soit un djinn, ou un être humain»."
   }
 ];
+
+export default frHamidullah;

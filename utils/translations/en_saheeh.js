@@ -35575,4 +35575,4 @@ const enSaheeh = [
   }
 ];
 
-module.exports = enSaheeh;
+export default enSaheeh;

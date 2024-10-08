@@ -35116,3 +35116,5 @@ const itPiccardo = [
     "content": "che [venga] dai dèmoni o dagli uomini”."
   }
 ];
+
+export default itPiccardo;

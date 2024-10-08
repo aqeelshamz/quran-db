@@ -35785,3 +35785,5 @@ const nlSiregar = [
     "content": "Van de Djinn's en de mensen."
   }
 ];
+
+export default nlSiregar;

@@ -34508,3 +34508,5 @@ const portuguese = [
   },
   {"surah_number": 114, "verse_number": 6, "content": "Entre gênios e humanos!"}
 ];
+
+export default portuguese;

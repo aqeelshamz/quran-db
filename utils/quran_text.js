@@ -34597,4 +34597,4 @@ const quranText = [
   },
 ];
 
-module.exports = quranText;
+export default quranText;

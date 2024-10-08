@@ -31180,3 +31180,5 @@ const spanish = [
     "content": "y existe entre los yinnes y entre los seres humanos"
   },
 ];
+
+export default spanish;

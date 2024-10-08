@@ -1,4 +1,4 @@
-const quran = require("./app");
+import quran from "./app.js";
 
 console.log("quran.totalPagesCount", quran.totalPagesCount);
 console.log("quran.totalMakkiSurahs", quran.totalMakkiSurahs);
